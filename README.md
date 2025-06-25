@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabetul-islam-asif&label=Profile%20views&color=0e75b6&style=flat" alt="rabetul-islam-asif" /> </p>
 
 <h2>About Me</h2>
-
+<img width="400" alt="ai" align="right" src="https://stormystudio.com/wp-content/uploads/2023/04/ai-animator-animation-production.gif" >
 - 🔭 I’m currently studying on **Computer Science Engineering**
 
 - 🌱 I’m currently learning **AI Prompt**
