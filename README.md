@@ -1,3 +1,5 @@
+![](https://github.com/Rabetul-islam-asif/Rabetul-islam-asif/blob/main/ai.png)
+
 
 <h1 align="center">Hi 👋, I'm Rabetul-islam-asif</h1>
 <h3 align="center">A passionate AI Engineer from Bangladesh</h3>
@@ -5,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabetul-islam-asif&label=Profile%20views&color=0e75b6&style=flat" alt="rabetul-islam-asif" /> </p>
 
 <h2>About Me</h2>
-![](https://github.com/Rabetul-islam-asif/Rabetul-islam-asif/blob/main/ai.png)
+
 - 🔭 I’m currently studying on **Computer Science Engineering**
 
 - 🌱 I’m currently learning **AI Prompt**
