@@ -1,6 +1,6 @@
 # Hi there, I'm Rabetul Islam Asif! 👋
 
-### 🚀 Aspiring AI Engineer | Computer Science Student
+###  Aspiring AI Engineer | Computer Science Student
 
 I am a passionate Computer Science student with a strong focus on **Artificial Intelligence**, **Machine Learning**, and **Data Science**. I love solving complex problems and building intelligent systems.
 
