@@ -79,12 +79,6 @@ Currently learning and building around:
 
 <br/><br/>
 
-## Frontend & Backend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,supabase"/>
-
-<br/><br/>
-
 ## AI / ML
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
@@ -117,6 +111,11 @@ Currently learning and building around:
 <img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Weaviate-0891B2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge"/>
+
+<br/><br/>
+## Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,supabase"/>
 
 <br/><br/>
 
