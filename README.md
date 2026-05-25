@@ -2,7 +2,7 @@
 
 #  ASIF_RABETUL
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Agentic+AI+Developer;Machine+Learning+Explorer;Full+Stack+Problem+Solver;Building+Production+Ready+AI+Apps;C%2B%2B+%7C+Python+%7C+Next.js+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Agentic+AI+Developer;Machine+Learning+Explorer;Full+Stack+Problem+Solver;Building+Production+Ready+AI+Apps;C%2B%2B+%7C+Python+%7C+Ai+Intelligent+App+Developer" />
 
 <br/>
 
