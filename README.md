@@ -69,7 +69,85 @@ Currently learning and building around:
 - 🧩 DSA & Advanced C++
 
 ---
+## Education & Certifications
 
+<table>
+<tr>
+<td width="50%">
+
+### Education
+
+**B.Sc. in Computer Science & Engineering**  
+Bangladesh University
+
+<br/>
+
+**B.Sc. in Computer Science**  
+University of the People
+
+</td>
+
+<td width="50%">
+
+### Online Learning
+
+**University of Colorado Boulder**  
+Computer Science & Online Learning
+
+<br/>
+
+**Harvard University (CS50)**  
+Artificial Intelligence
+
+<br/>
+
+**Stanford Online**  
+Transformers and Large Language Models
+
+</td>
+</tr>
+</table>
+
+---
+
+## Certifications & Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Harvard-CS50%20AI-A51C30?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Stanford-Transformers%20%26%20LLMs-8C1515?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google-IT%20Support%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM-Professional%20Certificate-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Meta-Professional%20Certificate-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/freeCodeCamp-PyTorch%20for%20Deep%20Learning-0A0A23?style=for-the-badge&logo=freecodecamp"/>
+
+<img src="https://img.shields.io/badge/Simplilearn-AI%20%26%20Machine%20Learning-FF6B00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Coursera-IT%20Support%20Professional%20Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+
+</div>
+
+---
+
+## Areas of Study
+
+```txt
+Artificial Intelligence
+Machine Learning
+Transformers & Attention Mechanisms
+Large Language Models (LLMs)
+PyTorch
+Deep Learning
+Computer Science Fundamentals
+IT Infrastructure & Support
+Problem Solving
+System Design
+```
 # ⚒️ TECH STACK
 <div align="center">
 
