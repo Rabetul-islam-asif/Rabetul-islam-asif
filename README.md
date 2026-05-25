@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ASIF_RABETUL
+#  ASIF_RABETUL
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Agentic+AI+Developer;Machine+Learning+Explorer;Full+Stack+Problem+Solver;Building+Production+Ready+AI+Apps;C%2B%2B+%7C+Python+%7C+Next.js+Developer" />
 
@@ -18,8 +18,8 @@
 # 🧠 ABOUT ME
 
 ```yaml
-name: Asif
-role: AI Engineer & Full Stack Developer
+name: Rabetul Islam Asif (Asif Rabetul)
+role: willing to be  AI Engineer & System Designer 
 education: Computer Science Engineering Student
 focus:
   - Agentic AI
@@ -49,7 +49,7 @@ I enjoy working on:
 
 ---
 
-# 🚀 CURRENT MISSION
+#  CURRENT MISSION
 
 ```txt
 Building the future with AI + Engineering
@@ -103,7 +103,7 @@ I love understanding how systems work internally — from embeddings and neural 
 
 <td width="50%">
 
-### ⚡ Builder Mindset
+###  Builder Mindset
 I focus on building real-world applications instead of only learning theory.
 
 </td>
@@ -112,14 +112,14 @@ I focus on building real-world applications instead of only learning theory.
 <tr>
 <td width="50%">
 
-### 🚀 Production Focused
+###  Production Focused
 Interested in scalable architectures, optimization, modern deployment systems, and production-ready engineering.
 
 </td>
 
 <td width="50%">
 
-### 🎯 Problem Solver
+###  Problem Solver
 I enjoy breaking down complex problems into smart and efficient solutions.
 
 </td>
@@ -153,7 +153,7 @@ class Asif:
 
 ---
 
-# 📚 LEARNING JOURNEY
+#  LEARNING JOURNEY
 
 ### Currently Exploring
 
@@ -169,28 +169,28 @@ class Asif:
 
 ---
 
-# 💻 PROJECT TYPES I LOVE
+#  PROJECT TYPES I LOVE
 
-## 🤖 AI PRODUCTS
+##  AI PRODUCTS
 - AI-powered applications
 - Multi-agent workflows
 - Smart automation systems
 - LLM-integrated products
 
-## 🌐 FULL STACK SYSTEMS
+##  FULL STACK SYSTEMS
 - Production-ready web apps
 - Native-like PWAs
 - Real-time architectures
 - Modern frontend systems
 
-## 🎓 EDUCATION TECH
+##  EDUCATION TECH
 - University management systems
 - Smart classroom platforms
 - AI-based educational tools
 
 ---
 
-# ⚡ DEVELOPMENT PHILOSOPHY
+#  DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
@@ -207,7 +207,7 @@ I believe great engineering comes from:
 
 ---
 
-# 📊 GITHUB STATS
+#  GITHUB STATS
 
 <div align="center">
 
@@ -219,7 +219,7 @@ I believe great engineering comes from:
 
 ---
 
-# 🏆 GOALS
+#  GOALS
 
 - Become a Professional AI Engineer
 - Master Agentic AI Systems
@@ -229,7 +229,7 @@ I believe great engineering comes from:
 
 ---
 
-# 🌍 VISION
+#  VISION
 
 I want to combine:
 ```txt
@@ -256,7 +256,7 @@ to create intelligent systems that improve real-world experiences and solve mean
 
 <div align="center">
 
-# ⚡ BUILDING THE FUTURE WITH AI
+#  BUILDING THE FUTURE WITH AI
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
 
