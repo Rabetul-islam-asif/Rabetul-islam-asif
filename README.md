@@ -71,20 +71,58 @@ Currently learning and building around:
 ---
 
 # ⚒️ TECH STACK
-
 <div align="center">
 
 ## Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts"/>
 
+<br/><br/>
+
 ## Frontend & Backend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,supabase"/>
 
-## AI / ML / Tools
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+## AI / ML
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Transformers-1E293B?style=for-the-badge"/>
+
+<br/><br/>
+
+## Agentic AI & RAG
+
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Database-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Workflows-1D4ED8?style=for-the-badge"/>
+
+<br/><br/>
+
+## Vector Databases & Infrastructure
+
+<img src="https://img.shields.io/badge/Pinecone-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Weaviate-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge"/>
+
+<br/><br/>
+
+## Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
 
 </div>
 
