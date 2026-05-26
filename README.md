@@ -60,20 +60,32 @@ I enjoy working on:
 Building the future with AI + Engineering
 ```
 
-Currently learning and building around:
+<table>
+<tr>
+<td width="55%">
 
-- 🧠 Agentic AI Systems
-- 🤖 LLM Applications
-- ⚡ AI Automation
-- 🔍 Vector Databases
-- 📊 Machine Learning
-- 🌐 Full Stack AI Apps
-- 🏗️ System Design
-- ⚙️ Performance Optimization
-- 📦 Production Architectures
-- 🧩 DSA & Advanced C++
+## Currently Learning & Building Around
 
----
+- Agentic AI Systems
+- LLM Applications
+- AI Automation
+- Vector Databases
+- Machine Learning
+- Full Stack AI Apps
+- System Design
+- Performance Optimization
+- Production Architectures
+- DSA & Advanced C++
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%" />
+
+</td>
+</tr>
+</table>
 ## Education & Certifications
 
 <table>
