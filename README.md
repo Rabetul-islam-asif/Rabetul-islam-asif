@@ -153,6 +153,13 @@ IT Infrastructure & Support
 Problem Solving
 System Design
 ```
+
+<div align="center">
+
+<img src="https://pbs.twimg.com/media/HF8ye5lakAAhS7k?format=jpg&name=4096x4096" width="70%" />
+
+</div>
+
 # ⚒️ TECH STACK
 <div align="center">
 
