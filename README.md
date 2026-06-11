@@ -163,7 +163,7 @@ System Design
 
 <div align="center">
 
-<img src="[https://pbs.twimg.com/media/HF8ye5lakAAhS7k?format=jpg&name=](https://freeimage.host/i/CBtRAoN)" width="70%" />
+<img src="https://freeimage.host/i/CBtRAoN" width="70%" />
 
 </div>
 
