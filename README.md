@@ -162,7 +162,9 @@ System Design
 
 <div align="center">
 
-<img src="https://ibb.co/j9F02BRN" width="70%" />
+<a href="https://photos.app.goo.gl/cK1saF37c7skADAv8">
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPmjLkudJQwFZwlqlYJTLreXw1bq7Cs7sFdBdFAV6Qplo7JsHrBNJZgqHmiwzOkbOYdRfrLGHbkH_DlrEXsB5KMn17P5thOB4NCxYCoStHA6WSllj1LzxiLVpOu7qw_tvbzSn79dFbw76ctPAotRF1MMg=w480-h600-s-no-gm" width="70%" alt="Profile photo" />
+</a>
 
 </div>
 
