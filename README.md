@@ -162,7 +162,7 @@ System Design
 
 <div align="center">
 
-<img src="[https://freeimage.host/i/CBtRAoN6](https://iili.io/CBtRAoN.png)" width="70%" />
+<img src="https://ibb.co.com/j9F02BRN" width="70%" />
 
 </div>
 
