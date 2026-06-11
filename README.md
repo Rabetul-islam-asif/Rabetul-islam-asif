@@ -76,7 +76,9 @@ Building the future with AI + Engineering
 
 <td width="45%" align="center">
 
-<img src="[https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif](https://freeimage.host/i/gemini-generated-image.CBtRAoN)" width="100%" />
+<img src="https://iili.io/CBtRAoN.png" width="100%" />
+
+</td>
 
 </td>
 </tr>
