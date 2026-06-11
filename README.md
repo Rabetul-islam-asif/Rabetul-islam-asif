@@ -76,9 +76,7 @@ Building the future with AI + Engineering
 
 <td width="45%" align="center">
 
-<img src="https://iili.io/CBtRAoN.png" width="100%" />
-
-</td>
+<img src="https://freeimage.host/i/CBtRAoN" width="100%" />
 
 </td>
 </tr>
@@ -165,7 +163,7 @@ System Design
 
 <div align="center">
 
-<img src="https://freeimage.host/i/CBtRAoN" width="70%" />
+<img src="https://pbs.twimg.com/media/HF8ye5lakAAhS7k?format=jpg&name=4096x4096" width="70%" />
 
 </div>
 
